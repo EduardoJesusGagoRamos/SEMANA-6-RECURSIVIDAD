@@ -1,12 +1,8 @@
 // Crea un método que obtenga la suma de los números naturales desde 1 hasta N. Se debe pasar como parámetro el número N
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
- */
 
 /**
  *
- * @author EDUARDO
+ * @author GAGO RAMOS EDUARDO JESÚS
  */
 public class EJERCICIO01 {
 

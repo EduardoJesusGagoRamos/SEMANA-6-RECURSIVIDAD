@@ -1,12 +1,8 @@
 // Crea un método que calcule el número de fibonacci a partir de un número pasado como parámetro
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
- */
 
 /**
  *
- * @author EDUARDO
+ * @author GAGO RAMOS EDUARDO JESÚS
  */
 public class EJERCICIO05 {
 

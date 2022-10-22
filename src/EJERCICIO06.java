@@ -1,12 +1,8 @@
 // Crear un método que obtenga el resultado de elevar un número a otro. Ambos números se deben pasar como parámetros
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
- */
 
 /**
  *
- * @author EDUARDO
+ * @author GAGO RAMOS EDUARDO JESÚS
  */
 public class EJERCICIO06 {
 

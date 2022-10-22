@@ -1,12 +1,8 @@
 // Crea un método que compruebe si un número es binario. Un número binario está formado únicamente por ceros y unos
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
- */
 
 /**
  *
- * @author EDUARDO
+ * @author GAGO RAMOS EDUARDO JESÚS
  */
 public class EJERCICIO13 {
 
